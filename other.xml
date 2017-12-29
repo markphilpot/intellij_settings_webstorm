@@ -1,0 +1,92 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/8.0.0/bin/node">
+      <version-cache version="8.0.0" last-modified="1496333617000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.5.0" last-modified="1505410106000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node">
+      <version-cache version="7.10.0" last-modified="1494544152000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node">
+      <version-cache version="7.9.0" last-modified="1492226287000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.8.0/bin/node">
+      <version-cache version="7.8.0" last-modified="1491158898000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.6.0/bin/node">
+      <version-cache version="7.6.0" last-modified="1487896381000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.5.0/bin/node">
+      <version-cache version="7.5.0" last-modified="1486435564000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.4.0/bin/node">
+      <version-cache version="7.4.0" last-modified="1483551728000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.3.0/bin/node">
+      <version-cache version="7.3.0" last-modified="1482263667000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.2.1/bin/node">
+      <version-cache version="7.2.1" last-modified="1481060991000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.2.0/bin/node">
+      <version-cache version="7.2.0" last-modified="1479855159000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.1.0/bin/node">
+      <version-cache version="7.1.0" last-modified="1478631212000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.0.0/bin/node">
+      <version-cache version="7.0.0" last-modified="1477401981000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.7.0/bin/node">
+      <version-cache version="6.7.0" last-modified="1475003522000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node">
+      <version-cache version="6.5.0" last-modified="1472225243000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.4.0/bin/node">
+      <version-cache version="6.4.0" last-modified="1471271247000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.3.1/bin/node">
+      <version-cache version="6.3.1" last-modified="1469133890000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.3.0/bin/node">
+      <version-cache version="6.3.0" last-modified="1467825253000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.2.1/bin/node">
+      <version-cache version="6.2.1" last-modified="1464904443000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.2.0/bin/node">
+      <version-cache version="6.2.0" last-modified="1463514794000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node">
+      <version-cache version="5.10.1" last-modified="1459893162000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.9.0/bin/node">
+      <version-cache version="5.9.0" last-modified="1458159784000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.8.0/bin/node">
+      <version-cache version="5.8.0" last-modified="1457492457000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.7.0/bin/node">
+      <version-cache version="5.7.0" last-modified="1456201854000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.6.0/bin/node">
+      <version-cache version="5.6.0" last-modified="1455035122000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node">
+      <version-cache version="5.0.0" last-modified="1446157829000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/4.2.1/bin/node">
+      <version-cache version="4.2.1" last-modified="1444786727000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.10.33/bin/node">
+      <version-cache version="0.10.33" last-modified="1414430415000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node">
+      <version-cache version="0.10.32" last-modified="1413835241000" />
+    </local-interpreter>
+  </component>
+</application>
